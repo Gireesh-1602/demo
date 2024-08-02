@@ -14,4 +14,6 @@ res=a+b
 
 #subtraction
 
+#percentage 
+
 
